@@ -1,0 +1,1 @@
+Welcome to the Virtual Pet Simulator! This project allows you to create, care for, and interact with your own digital pet. It's a fun way to experience pet ownership without the real-life responsibilities!
